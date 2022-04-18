@@ -4,7 +4,7 @@ public class Lista_SE {
     public Lista_SE(){
         this.inicio=null;
     }
-    //vacia
+    //vaciar
     public boolean estaVacia(){
         return inicio==null;
     }
